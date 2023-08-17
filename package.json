@@ -2,9 +2,9 @@
   "name": "plgolf-jwt-authentication",
   "version": "1.0.0",
   "description": "Exemplo de uma aplicação Node.js simples com token de autenticação JWT",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node index.js --output public"
+    "build": "node api/index.js --output public"
   },
   "author": "Fabio Silva Ferreira",
   "license": "MIT",

@@ -1,5 +1,5 @@
 {
-  "buildCommand": "next start",
+  "buildCommand": "next build",
   "public": true,
   "installCommand": "npm install"
 }
