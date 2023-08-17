@@ -1,3 +1,6 @@
 {
-  "buildCommand": "next start"
+  "buildCommand": "next start",
+  "outputDirectory": "build",
+  "public": true,
+  "installCommand": "npm install"
 }
